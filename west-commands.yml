@@ -1,0 +1,6 @@
+west-commands:
+  - file: dbt.py
+    commands:
+      - name: dbt
+        class: DebugTools
+        help: Convenient debugging tools.
